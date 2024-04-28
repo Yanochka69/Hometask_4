@@ -1,0 +1,6 @@
+.size {
+    width: 200px;
+    height: 100px;
+    border: 2px solid rgb(161, 47, 255);
+    border-radius: 10px;
+}
