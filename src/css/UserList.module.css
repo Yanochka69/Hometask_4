@@ -1,0 +1,7 @@
+.list{
+    width: 250px;
+    height: 290px;
+    margin: 0 30px;
+    border: 2px solid rgb(15, 66, 231);
+    border-radius: 10px;
+}
